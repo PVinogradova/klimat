@@ -1,0 +1,2 @@
+# klimat
+klimats uzdevums
